@@ -1,0 +1,9 @@
+###This is the homework code for coursera alg course
+
+the newest alg code is the minimum cut for a undirected graph
+
+however some bugs exist in my minCut alg right now
+
+sometimes the program may fall into a endless loop
+
+But the alg still can output the correct number
